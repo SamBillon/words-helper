@@ -1,4 +1,3 @@
-from asyncore import write
 import xlrd
 import xlwt
 
