@@ -17,3 +17,7 @@ pip install -r requirements.txt
 python run.py
 ```
 即可。
+
+可向`resources`文件夹内添加`.xls`文件格式的单词表，具体格式为 A列为单词，B列为对应释义。
+
+默写结束后，可从`results`文件夹内查看默写结果。
