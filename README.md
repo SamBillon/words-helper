@@ -4,7 +4,7 @@
 
 环境需求：
 ```
-python 3
+Python 3
 ```
 
 
@@ -12,7 +12,9 @@ python 3
 使用方法：
 
 clone本仓库到本地，之后执行
-```
+```bash
+python3 -m venv wordshelper
+source wordshelper/bin/activate
 pip install -r requirements.txt
 python run.py
 ```
